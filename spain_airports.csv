@@ -1,0 +1,28 @@
+,place_id,name,latitud,longitud,rating,types,city
+0,ChIJAQAAANAxQg0R786FD-old24,Adolfo Suárez Madrid–Barajas Airport,40.4983322,-3.5675982,4.0,"['airport', 'point_of_interest', 'establishment']",Madrid
+1,ChIJpY58hGSepBIR15tv-0LpK_M,Josep Tarradellas Barcelona-El Prat Airport,41.297445,2.0832941,3.9,"['airport', 'point_of_interest', 'establishment']",Barcelona
+2,ChIJpTC6dhj6cg0Rmj7eRy-ttVc,Málaga-Costa del Sol Airport,36.6771276,-4.4915685,3.9,"['airport', 'point_of_interest', 'establishment']",Málaga
+3,ChIJM9oQTcZKYg0R8b65Jd5Fstw,Alicante Airport,38.2850929,-0.5624981,4.3,"['airport', 'point_of_interest', 'establishment']",Alicante
+4,ChIJ8zXb9S-UlxIRVvm3aWXaMXA,Palma de Mallorca Airport,39.5517407,2.7361649,4.2,"['airport', 'point_of_interest', 'establishment']",Balearic Islands
+5,ChIJHS1mw2aiQAwR1IWfFX7PS4I,Gran Canaria Airport,27.9289223,-15.3874042,4.2,"['airport', 'point_of_interest', 'establishment']",Las Palmas
+6,ChIJZ1rMYJ9aYA0RggGxqv-3wkw,Valencia Airport,39.4892327,-0.4780256,4.0,"['airport', 'point_of_interest', 'establishment']",Valencia
+7,ChIJtQc1pJmfagwRATBZlraFkIo,Tenerife South Airport,28.0467575,-16.5725303,4.0,"['airport', 'point_of_interest', 'establishment']",Santa Cruz de Tenerife
+8,ChIJVZouaa4Bcg0Rc1VJsULO08s,Federico García Lorca Granada Airport,37.1873133,-3.7780425,4.0,"['airport', 'point_of_interest', 'establishment']",Granada
+9,ChIJr7HMJfVFmRIRC1WADVXEsiY,Ibiza Airport,38.8748594,1.3712232,4.1,"['airport', 'point_of_interest', 'establishment']",Balearic Islands
+10,ChIJq0XsRmhFTg0RQnuBXbShtMg,Bilbao Airport,43.3065915,-2.9034838,4.1,"['airport', 'point_of_interest', 'establishment']",Biscay
+11,ChIJ5cIk2z7paw0RbfP-0NaspmU,"Ciudad Real, Airport",38.8671787,-3.9926934,3.2,"['airport', 'point_of_interest', 'establishment']",Ciudad Real
+12,ChIJuZuEjRxmEg0ROif7oHd-UgE,Seville Airport,37.4201674,-5.89305,3.7,"['airport', 'point_of_interest', 'establishment']",Sevilla
+13,ChIJWQQNP1cmRgwR_-9bJV-G3DY,Lanzarote Airport,28.950438,-13.6057769,4.2,"['airport', 'point_of_interest', 'establishment']",Las Palmas
+14,ChIJ0xC1yO_fuhIR40oO1ILdw5s,Girona–Costa Brava Airport,41.89784239999999,2.7660641,4.2,"['airport', 'point_of_interest', 'establishment']",Girona
+15,ChIJ_WCGZVeZeg0RZV08CE0NGP8,Almería Airport,36.8447211,-2.3704731,4.2,"['airport', 'point_of_interest', 'establishment']",Almería
+16,ChIJyXYiXmO_DQ0RD86AZtkACRQ,Jerez Airport,36.7452935,-6.0608778,4.0,"['airport', 'point_of_interest', 'establishment']",Cádiz
+17,ChIJiXVgxDbGRwwRu2_SyqFyUCM,Fuerteventura Airport,28.4482157,-13.866349,4.2,"['airport', 'point_of_interest', 'establishment']",Las Palmas
+18,ChIJhVqUN7DsawwRxpZNPm62VEs,La Palma Airport,28.625881,-17.7551131,4.3,"['airport', 'point_of_interest', 'establishment']",Santa Cruz de Tenerife
+19,ChIJnzwM82ZULg0R2B7_EJnCWZE,Santiago-Rosalía de Castro Airport,42.8920814,-8.419593899999999,4.2,"['airport', 'point_of_interest', 'establishment']",A Coruña
+20,ChIJbx3s_vTNQQwReLBTc3mRXBw,Tenerife Norte Airport,28.484511,-16.3434204,4.1,"['airport', 'point_of_interest', 'establishment']",Santa Cruz de Tenerife
+21,ChIJSWLOVVJ7Yw0R_Rc0DWn3sGk,Región de Murcia International Airport,37.8044768,-1.1313311,4.0,"['airport', 'point_of_interest', 'establishment']",Murcia
+22,ChIJq6qqqlqIlRIRi-tzLU38tGU,Menorca Airport,39.8649139,4.2254757,4.3,"['airport', 'point_of_interest', 'establishment']",Illes Balears
+23,ChIJ0XCGbpJkLg0R3HwMPYq91xg,A Coruña Airport,43.3012532,-8.378791399999999,4.1,"['airport', 'point_of_interest', 'establishment']",A Coruña
+24,ChIJyQHOxBlXoRIRV2dtXhz4AKc,Reus Airport,41.148048,1.1687556,3.9,"['airport', 'point_of_interest', 'establishment']",Tarragona
+25,ChIJYbV9Z4qHJQ0Rvry9TTm7jtY,Vigo Airport,42.2311838,-8.6273726,4.1,"['airport', 'point_of_interest', 'establishment']",Pontevedra
+26,ChIJGwo7PCyfNg0R2oUvT9GRvQc,Asturias Airport (OVD),43.5623825,-6.0334978,4.0,"['airport', 'point_of_interest', 'establishment']",Asturias
